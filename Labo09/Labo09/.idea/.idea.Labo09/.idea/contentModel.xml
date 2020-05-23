@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rafae\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rafae\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Labo09.1061339018.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rafae\OneDrive\Escritorio\Ciclo 01 2020\Materia Poo\Labos\00118519_RHFA_POO\Labos\Labo09\Labo09" t="IncludeRecursive">
+      <e p="AddMateria.cs" t="Include" />
+      <e p="AddMateria.Designer.cs" t="Include" />
+      <e p="AddMateria.resx" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ConnectionBDD.cs" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="Inscripcion.cs" t="Include" />
+      <e p="Inscripcion.Designer.cs" t="Include" />
+      <e p="Inscripcion.resx" t="Include" />
+      <e p="Labo09.csproj" t="IncludeRecursive" />
+      <e p="Labo09.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Question.cs" t="Include" />
+      <e p="Question.Designer.cs" t="Include" />
+      <e p="Question.resx" t="Include" />
+      <e p="Resgister.cs" t="Include" />
+      <e p="Resgister.Designer.cs" t="Include" />
+      <e p="Resgister.resx" t="Include" />
+    </e>
+  </component>
+</project>
